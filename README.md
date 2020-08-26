@@ -5,7 +5,7 @@ Home: https://github.com/shopkeep/pytest-black
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A pytest plugin to enable format checking with black
 
