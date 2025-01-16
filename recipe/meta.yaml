@@ -18,6 +18,7 @@ requirements:
   host:
     - pip
     - python {{ python_min }}
+    - setuptools
     - setuptools_scm
   run:
     - black >=19.3b0
